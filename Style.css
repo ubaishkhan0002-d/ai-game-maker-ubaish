@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 40px;
+  background: #faf4ef;
+}
+
+h1 {
+  color: #222;
+  margin-bottom: 10px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background: black;
+  color: white;
+  margin: 10px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.back {
+  display: block;
+  margin-top: 20px;
+  color: #333;
+}
